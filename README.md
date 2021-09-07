@@ -1,16 +1,9 @@
-# flutter_challenge_ripple
+# flutter_challenge_shake_notification_bell
 
-A new Flutter project.
+This project is a demo of shake notification bell using flutter
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/90253080/132357440-b9bb242f-8049-4f6b-a55b-f66d362d732f.gif" width="300" height="300">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
